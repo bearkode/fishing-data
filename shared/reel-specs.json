@@ -1,0 +1,297 @@
+{
+  "description": "릴 제조사 공식 스펙 데이터. 공용으로 관리하며 개인 보유 릴(reels.json)에서 specId로 참조.",
+  "reelSpecs": [
+    {
+      "id": "shimano-25-트윈파워XD-C3000XG",
+      "brand": "시마노",
+      "name": "25 트윈파워XD",
+      "size": "C3000XG",
+      "type": "스피닝",
+      "gear": "6.4:1",
+      "weight": 200,
+      "maxDrag_kg": 9,
+      "handleLength_mm": 55,
+      "windingPerRotation_cm": 94,
+      "spoolSpec": {
+        "diameter_mm": 47,
+        "stroke_mm": 17
+      },
+      "lineCapacity": {
+        "PE": [
+          {
+            "num": "1",
+            "length": 400
+          },
+          {
+            "num": "1.5",
+            "length": 270
+          },
+          {
+            "num": "2",
+            "length": 200
+          }
+        ],
+        "nylon": [
+          {
+            "num": "2.5",
+            "length": 180
+          },
+          {
+            "num": "3",
+            "length": 150
+          },
+          {
+            "num": "4",
+            "length": 100
+          }
+        ]
+      }
+    },
+    {
+      "id": "shimano-21-울테그라-2500HG",
+      "brand": "시마노",
+      "name": "21 울테그라",
+      "size": "2500HG",
+      "type": "스피닝",
+      "gear": "5.3:1",
+      "weight": 225,
+      "maxDrag_kg": 9,
+      "handleLength_mm": 55,
+      "windingPerRotation_cm": 78,
+      "spoolSpec": {
+        "diameter_mm": 47,
+        "stroke_mm": 17
+      },
+      "lineCapacity": {
+        "PE": [
+          {
+            "num": "1",
+            "length": 320
+          },
+          {
+            "num": "1.2",
+            "length": 270
+          },
+          {
+            "num": "1.5",
+            "length": 220
+          }
+        ],
+        "nylon": [
+          {
+            "num": "2",
+            "length": 170
+          },
+          {
+            "num": "2.5",
+            "length": 150
+          },
+          {
+            "num": "3",
+            "length": 120
+          },
+          {
+            "num": "4",
+            "length": 100
+          }
+        ],
+        "fluoro": [
+          {
+            "num": "2",
+            "length": 140
+          },
+          {
+            "num": "2.5",
+            "length": 125
+          },
+          {
+            "num": "3",
+            "length": 100
+          }
+        ]
+      }
+    },
+    {
+      "id": "shimano-23-염월-프리미엄-151PG",
+      "brand": "시마노",
+      "name": "23 염월 프리미엄",
+      "size": "151PG",
+      "type": "베이트",
+      "gear": "5.8:1",
+      "weight": 220,
+      "maxDrag_kg": 6,
+      "handleLength_mm": 51,
+      "windingPerRotation_cm": 58,
+      "spoolSpec": {
+        "diameter_mm": 32,
+        "width_mm": 22
+      },
+      "lineCapacity": {
+        "PE": [
+          {
+            "num": "0.8",
+            "length": 400
+          },
+          {
+            "num": "1",
+            "length": 330
+          },
+          {
+            "num": "1.5",
+            "length": 200
+          }
+        ]
+      }
+    },
+    {
+      "id": "toyo-올터레인-4-우핸들",
+      "brand": "도요",
+      "name": "올터레인 4",
+      "size": "우핸들",
+      "type": "베이트",
+      "gear": "6.8:1",
+      "weight": 179,
+      "maxDrag_kg": 6,
+      "handleLength_mm": null,
+      "windingPerRotation_cm": 68,
+      "spoolSpec": null,
+      "lineCapacity": {
+        "PE": [
+          {
+            "num": "1",
+            "length": 210
+          }
+        ]
+      }
+    },
+    {
+      "id": "toyo-우라노-인쇼어-G2-좌핸들",
+      "brand": "도요",
+      "name": "우라노 인쇼어 G2",
+      "size": "좌핸들",
+      "type": "베이트",
+      "gear": "7.5:1",
+      "weight": 197,
+      "maxDrag_kg": 7.5,
+      "handleLength_mm": 100,
+      "windingPerRotation_cm": 80,
+      "spoolSpec": null,
+      "lineCapacity": {
+        "PE": [
+          {
+            "num": "1.5",
+            "length": 230
+          }
+        ]
+      }
+    },
+    {
+      "id": "abu-garcia-NEO-S-NEO-54-L-PH-(좌핸들)",
+      "brand": "아부가르시아",
+      "name": "NEO-S",
+      "size": "NEO-54-L PH (좌핸들)",
+      "type": "베이트",
+      "gear": "4.8:1",
+      "weight": 198,
+      "maxDrag_kg": 10,
+      "handleLength_mm": null,
+      "windingPerRotation_cm": 48,
+      "spoolSpec": null,
+      "lineCapacity": {
+        "PE": [
+          {
+            "num": "1.5",
+            "length": 150
+          }
+        ]
+      }
+    },
+    {
+      "id": "daiwa-REVROS-A-2500",
+      "brand": "다이와",
+      "name": "REVROS A",
+      "size": "2500",
+      "type": "스피닝",
+      "gear": "4.8:1",
+      "weight": 250,
+      "maxDrag_kg": 4,
+      "handleLength_mm": null,
+      "windingPerRotation_cm": 72,
+      "spoolSpec": null,
+      "lineCapacity": {
+        "PE": [],
+        "nylon": [
+          {
+            "num": "2.5",
+            "length": 150
+          }
+        ]
+      },
+      "note": "PE 권사량 미확인 — 추후 업데이트 필요"
+    },
+    {
+      "id": "shimano-25-염월-CT-151PG",
+      "brand": "시마노",
+      "name": "25 염월 CT",
+      "size": "151PG",
+      "type": "베이트",
+      "gear": "5.8:1",
+      "weight": 230,
+      "maxDrag_kg": 6,
+      "handleLength_mm": 55,
+      "windingPerRotation_cm": 58,
+      "spoolSpec": {
+        "diameter_mm": 32,
+        "width_mm": 22
+      },
+      "lineCapacity": {
+        "PE": [
+          {
+            "num": "0.8",
+            "length": 400
+          },
+          {
+            "num": "1",
+            "length": 330
+          },
+          {
+            "num": "1.5",
+            "length": 200
+          }
+        ]
+      }
+    },
+    {
+      "id": "shimano-22-세피아BB-C3000SDHHG",
+      "brand": "시마노",
+      "name": "22 세피아BB",
+      "size": "C3000SDHHG",
+      "type": "스피닝",
+      "gear": "6.0:1",
+      "weight": 235,
+      "maxDrag_kg": 9,
+      "handleLength_mm": 45,
+      "windingPerRotation_cm": 89,
+      "spoolSpec": {
+        "diameter_mm": 47,
+        "stroke_mm": 17
+      },
+      "lineCapacity": {
+        "PE": [
+          {
+            "num": "0.6",
+            "length": 200
+          },
+          {
+            "num": "0.8",
+            "length": 150
+          },
+          {
+            "num": "1",
+            "length": 120
+          }
+        ]
+      }
+    }
+  ]
+}

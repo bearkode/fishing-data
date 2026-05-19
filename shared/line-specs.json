@@ -1,0 +1,318 @@
+{
+  "specs": [
+    {
+      "brand": "시거",
+      "name": "그랜드맥스 PEX8",
+      "strands": 8,
+      "material": "Grand Max PE (저신도)",
+      "color": "멀티컬러 (10m마다 색상 변경)",
+      "marking": "10m 피치 마킹",
+      "sizes": [
+        {
+          "num": "0.4",
+          "diameter_mm": 0.104,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "0.6",
+          "diameter_mm": 0.128,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "0.8",
+          "diameter_mm": 0.148,
+          "lb": 16.0,
+          "kg": 7.2
+        },
+        {
+          "num": "1",
+          "diameter_mm": 0.165,
+          "lb": 20.8,
+          "kg": 9.4
+        },
+        {
+          "num": "1.2",
+          "diameter_mm": 0.185,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "1.5",
+          "diameter_mm": 0.205,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "2",
+          "diameter_mm": 0.235,
+          "lb": null,
+          "kg": null
+        }
+      ],
+      "note": "동호수 대비 실제 직경이 굵은 편으로 알려짐 (Line Laboratory 실측: 0.8호 표기 직경 0.148mm → 실측 0.189mm, 127% 수준). 스풀 권사량이 공식 스펙보다 적게 감기는 원인.",
+      "genreType": "범용",
+      "preferredGenres": [
+        "워킹루어",
+        "락피싱",
+        "타이라바",
+        "다운샷",
+        "SLJ",
+        "서프",
+        "주꾸미",
+        "갑오징어",
+        "에깅",
+        "팁런"
+      ],
+      "avoidGenres": []
+    },
+    {
+      "brand": "시거",
+      "name": "PEX8 루어에디션",
+      "strands": 8,
+      "material": "Grand Max PE (초저신도)",
+      "color": "패션핑크 + 라임그린 (1m 마킹)",
+      "marking": "1m 피치 마킹",
+      "sizes": [
+        {
+          "num": "0.8",
+          "diameter_mm": null,
+          "lb": 16.0,
+          "kg": null
+        },
+        {
+          "num": "1",
+          "diameter_mm": null,
+          "lb": 21.0,
+          "kg": null
+        },
+        {
+          "num": "1.2",
+          "diameter_mm": null,
+          "lb": 24.0,
+          "kg": null
+        }
+      ],
+      "note": "그랜드맥스 PEX8보다 22% 더 가는 직경으로 설계. 동호수 대비 더 가는 라인으로 스풀 감기량이 많음. 캐스팅 특화.",
+      "genreType": "루어 전용",
+      "preferredGenres": [
+        "워킹루어",
+        "락피싱",
+        "SLJ",
+        "서프",
+        "캐스팅"
+      ],
+      "avoidGenres": [
+        "타이라바",
+        "다운샷",
+        "문어",
+        "심해갑오징어"
+      ]
+    },
+    {
+      "brand": "시마노",
+      "name": "세피아 8+",
+      "strands": 8,
+      "material": "PE (IZANAS)",
+      "color": "멀티컬러",
+      "marking": "10m 피치 마킹",
+      "sizes": [
+        {
+          "num": "0.5",
+          "diameter_mm": null,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "0.6",
+          "diameter_mm": null,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "0.8",
+          "diameter_mm": null,
+          "lb": 18.5,
+          "kg": 8.4
+        }
+      ],
+      "note": "에깅 전용 설계. IZANAS 원사 사용. 0.8호 18.5lb는 실제 등록 데이터 기준.",
+      "genreType": "에깅 전용",
+      "preferredGenres": [
+        "에깅",
+        "팁런"
+      ],
+      "avoidGenres": [
+        "워킹루어",
+        "락피싱",
+        "타이라바",
+        "다운샷",
+        "SLJ",
+        "서프",
+        "주꾸미",
+        "문어"
+      ]
+    },
+    {
+      "brand": "시마노",
+      "name": "핏불 8",
+      "strands": 8,
+      "material": "PE (IZANAS, Tough Cross 2)",
+      "color": "라임그린",
+      "marking": "10m 피치 마킹",
+      "sizes": [
+        {
+          "num": "0.6",
+          "diameter_mm": null,
+          "lb": 14.5,
+          "kg": 6.6
+        },
+        {
+          "num": "0.8",
+          "diameter_mm": null,
+          "lb": 17.5,
+          "kg": 7.9
+        },
+        {
+          "num": "1",
+          "diameter_mm": null,
+          "lb": 22.4,
+          "kg": 10.2
+        },
+        {
+          "num": "1.2",
+          "diameter_mm": null,
+          "lb": 27.0,
+          "kg": 12.3
+        },
+        {
+          "num": "1.5",
+          "diameter_mm": null,
+          "lb": 31.7,
+          "kg": 14.4
+        },
+        {
+          "num": "2",
+          "diameter_mm": null,
+          "lb": 42.8,
+          "kg": 19.4
+        }
+      ],
+      "note": "IZANAS 원사 + Tough Cross 2 직조. Heat Sink Coating으로 마찰열 방지. 루어 캐스팅 전용 설계.",
+      "genreType": "루어 전용",
+      "preferredGenres": [
+        "워킹루어",
+        "락피싱",
+        "SLJ",
+        "서프",
+        "캐스팅",
+        "다운샷"
+      ],
+      "avoidGenres": []
+    },
+    {
+      "brand": "다이와",
+      "name": "듀라센서 8BRAID+Si2",
+      "strands": 8,
+      "material": "Tough PE + EVO Silicone2 코팅",
+      "color": "멀티컬러 (5색, 10m 마킹)",
+      "marking": "10m x 5색, 1m 마킹",
+      "sizes": [
+        {
+          "num": "0.6",
+          "diameter_mm": 0.12,
+          "lb": 11.0,
+          "kg": 5.0
+        },
+        {
+          "num": "0.8",
+          "diameter_mm": null,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "1",
+          "diameter_mm": null,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "1.2",
+          "diameter_mm": null,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "2",
+          "diameter_mm": 0.235,
+          "lb": 35.0,
+          "kg": 15.9
+        }
+      ],
+      "note": "일반 다이와 합사 대비 내마모성 300% 향상. 개별 원사에 Si2 코팅 침투 처리. 0.6호 직경 0.120mm는 등록 데이터(11lb) 기준.",
+      "genreType": "범용 (내마모 특화)",
+      "preferredGenres": [
+        "워킹루어",
+        "락피싱",
+        "타이라바",
+        "SLJ",
+        "서프"
+      ],
+      "avoidGenres": []
+    },
+    {
+      "brand": "루어팩토리",
+      "name": "LIMITED X8",
+      "strands": 8,
+      "material": "PE",
+      "color": "미확인",
+      "marking": "미확인",
+      "sizes": [
+        {
+          "num": "1",
+          "diameter_mm": null,
+          "lb": null,
+          "kg": null
+        },
+        {
+          "num": "2",
+          "diameter_mm": null,
+          "lb": null,
+          "kg": null
+        }
+      ],
+      "note": "국내 브랜드. 상세 스펙 미확인 — 추후 업데이트 필요.",
+      "genreType": "범용",
+      "preferredGenres": [
+        "선상 전반",
+        "다운샷",
+        "문어",
+        "갑오징어"
+      ],
+      "avoidGenres": []
+    },
+    {
+      "brand": "미상",
+      "name": "X9 PE BRAID",
+      "strands": 9,
+      "material": "PE",
+      "color": "미확인",
+      "marking": "미확인",
+      "sizes": [
+        {
+          "num": "3",
+          "diameter_mm": null,
+          "lb": null,
+          "kg": null
+        }
+      ],
+      "note": "브랜드 미상. 상세 스펙 미확인.",
+      "genreType": "범용",
+      "preferredGenres": [
+        "선상 전반"
+      ],
+      "avoidGenres": []
+    }
+  ]
+}
